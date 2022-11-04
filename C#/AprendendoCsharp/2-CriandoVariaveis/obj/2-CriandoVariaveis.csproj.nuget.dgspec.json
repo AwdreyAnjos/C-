@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
+    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
+    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "projectName": "2-CriandoVariaveis",
-        "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "packagesPath": "C:\\Users\\awdre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\obj\\",
+        "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\2-CriandoVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awdre\\AppData\\Roaming\\NuGet\\NuGet.Config",

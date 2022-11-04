@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {}
+    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {
+    "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+        "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
         "projectName": "3-CriandoVariaveisPontoFlutuante",
-        "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+        "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
         "packagesPath": "C:\\Users\\awdre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\obj\\",
+        "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\3-CriandoVariaveisPontoFlutuante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awdre\\AppData\\Roaming\\NuGet\\NuGet.Config",

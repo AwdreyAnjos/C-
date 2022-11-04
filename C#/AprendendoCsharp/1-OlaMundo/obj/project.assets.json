@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\1-OlaMundo\\1-OlaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\1-OlaMundo\\1-OlaMundo.csproj",
       "projectName": "1-OlaMundo",
-      "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\1-OlaMundo\\1-OlaMundo.csproj",
+      "projectPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\1-OlaMundo\\1-OlaMundo.csproj",
       "packagesPath": "C:\\Users\\awdre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\C#\\AprendendoCsharp\\1-OlaMundo\\obj\\",
+      "outputPath": "C:\\Users\\awdre\\OneDrive\\Documentos\\Códigos\\Csharp\\C#\\AprendendoCsharp\\1-OlaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\awdre\\AppData\\Roaming\\NuGet\\NuGet.Config",

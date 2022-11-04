@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{A72CC3D9-5F8D-4823-80BC-9715096E4FA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{A72CC3D9-5F8D-4823-80BC-9715096E4FA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{92FF06C4-DD8D-4C8B-AEDD-D8FB74C70217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{92FF06C4-DD8D-4C8B-AEDD-D8FB74C70217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{2C6ED63E-A87A-4E69-B211-CBCABD909DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{2C6ED63E-A87A-4E69-B211-CBCABD909DF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutros", "4-ConversoesEOutros\4-ConversoesEOutros.csproj", "{960E4B9A-967B-46BD-9803-A2033C89B6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresTexto", "5-CaracteresTexto\5-CaracteresTexto.csproj", "{A6F9C131-58F3-4CDA-986D-EBF9D7E45A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{909FD5FD-3504-46F2-B0DA-463B17DB5FEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{2C6ED63E-A87A-4E69-B211-CBCABD909DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C6ED63E-A87A-4E69-B211-CBCABD909DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C6ED63E-A87A-4E69-B211-CBCABD909DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960E4B9A-967B-46BD-9803-A2033C89B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960E4B9A-967B-46BD-9803-A2033C89B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960E4B9A-967B-46BD-9803-A2033C89B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960E4B9A-967B-46BD-9803-A2033C89B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F9C131-58F3-4CDA-986D-EBF9D7E45A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F9C131-58F3-4CDA-986D-EBF9D7E45A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F9C131-58F3-4CDA-986D-EBF9D7E45A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F9C131-58F3-4CDA-986D-EBF9D7E45A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909FD5FD-3504-46F2-B0DA-463B17DB5FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909FD5FD-3504-46F2-B0DA-463B17DB5FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909FD5FD-3504-46F2-B0DA-463B17DB5FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909FD5FD-3504-46F2-B0DA-463B17DB5FEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
