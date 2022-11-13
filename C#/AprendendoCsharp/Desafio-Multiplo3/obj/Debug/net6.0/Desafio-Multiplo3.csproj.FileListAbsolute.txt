@@ -1,0 +1,15 @@
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\bin\Debug\net6.0\Desafio-Multiplo3.exe
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\bin\Debug\net6.0\Desafio-Multiplo3.deps.json
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\bin\Debug\net6.0\Desafio-Multiplo3.runtimeconfig.json
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\bin\Debug\net6.0\Desafio-Multiplo3.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\bin\Debug\net6.0\Desafio-Multiplo3.pdb
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.csproj.AssemblyReference.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.AssemblyInfoInputs.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.AssemblyInfo.cs
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.csproj.CoreCompileInputs.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\refint\Desafio-Multiplo3.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.pdb
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\Desafio-Multiplo3.genruntimeconfig.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-Multiplo3\obj\Debug\net6.0\ref\Desafio-Multiplo3.dll

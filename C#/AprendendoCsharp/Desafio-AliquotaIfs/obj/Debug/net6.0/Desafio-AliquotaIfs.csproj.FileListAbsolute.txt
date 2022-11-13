@@ -1,0 +1,15 @@
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\bin\Debug\net6.0\Desafio-AliquotaIfs.exe
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\bin\Debug\net6.0\Desafio-AliquotaIfs.deps.json
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\bin\Debug\net6.0\Desafio-AliquotaIfs.runtimeconfig.json
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\bin\Debug\net6.0\Desafio-AliquotaIfs.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\bin\Debug\net6.0\Desafio-AliquotaIfs.pdb
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.csproj.AssemblyReference.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.AssemblyInfoInputs.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.AssemblyInfo.cs
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.csproj.CoreCompileInputs.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\refint\Desafio-AliquotaIfs.dll
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.pdb
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\Desafio-AliquotaIfs.genruntimeconfig.cache
+C:\Users\awdre\OneDrive\Documentos\Códigos\Csharp\C#\AprendendoCsharp\Desafio-AliquotaIfs\obj\Debug\net6.0\ref\Desafio-AliquotaIfs.dll
